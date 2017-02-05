@@ -1,8 +1,6 @@
 # URLSchemesCollection
 Collection of URL schemes
 
----
-
 ## Social Networking
 
 ### WeChat
@@ -47,15 +45,11 @@ Collection of URL schemes
 - Location feed for this location ID: `instagram://location?id=LOCATION_ID`
 - Tag feed for this tag: `instagram://tag?name=TAG`
 
----
-
 ## Media
 
 ### Netease Music
 - Open: `orpheus://`
 - Recognize music: `orpheuswidget://recognize`
-
----
 
 ## Lifestyle & Finance
 
@@ -67,8 +61,6 @@ Collection of URL schemes
 `alipay://platformapi/startapp?saId=88886666`
 - Create chat group:
 `alipay://platformapi/startapp?appId=20000254&actionType=createGroup`
-
----
 
 ## Utilities
 
@@ -101,6 +93,6 @@ Collection of URL schemes
 
 *Remark: Support `x-callback-url`*
 
-## 1Password
+### 1Password
 - Open: `onepassword://`
 - Search: `onepassword://search/KEYWORD`
