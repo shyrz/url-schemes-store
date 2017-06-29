@@ -1,5 +1,7 @@
 # URL Schemes Store
 
+A store of URL schemes.
+
 ## Social Networking
 
 ### WeChat
