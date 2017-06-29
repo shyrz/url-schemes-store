@@ -1,5 +1,4 @@
-# URLSchemesCollection
-Collection of URL schemes
+# URL Schemes Store
 
 ## Social Networking
 
