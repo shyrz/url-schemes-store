@@ -97,3 +97,26 @@ A store of URL schemes.
 ### 1Password
 - Open: `onepassword://`
 - Search: `onepassword://search/KEYWORD`
+
+
+### Moke
+- Open: `moke:///`
+- View Weibo:
+```
+moke:///status?mid=微博MID`
+moke:///status?id=微博ID
+moke:///link?url=微博正文页面链接
+```
+- View User:
+```
+moke:///user?id=用户ID
+moke:///user?screen_name=用户昵称
+moke:///user?domain=用户个性域名
+moke:///link?url=用户主页链接
+```
+- Search Weibo:
+`moke:///search/statuses?query=关键字`
+- Search User:
+`moke:///search/users?query=关键字`
+- Write Weibo:
+`moke://账号昵称或ID(缺省使用当前账号)/post?text=微博内容 [可选参数：image=pasteboard，附加一张剪贴板中的图片。]`
